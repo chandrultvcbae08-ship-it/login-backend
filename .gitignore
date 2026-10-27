@@ -1,0 +1,20 @@
+# Virtual Environments
+env/
+venv/
+backend_venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+staticfiles/
+media/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
